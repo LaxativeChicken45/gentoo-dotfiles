@@ -6,7 +6,7 @@
         "clipboardWrapText": true,
         "customLaunchPrefix": "",
         "customLaunchPrefixEnabled": false,
-        "density": "default",
+        "density": "default",        
         "enableClipPreview": true,
         "enableClipboardChips": true,
         "enableClipboardHistory": false,
@@ -828,7 +828,7 @@
     },
     "wallpaper": {
         "automationEnabled": false,
-        "directory": "/home/oliwia/Downloads",
+        "directory": "~/downloads",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "favorites": [
